@@ -1,6 +1,6 @@
 # 临高
 
-网站地址 https://hainan-lingao.github.io/main
+网站地址 https://hainan-lingao.github.io/main/
 
 ## 地理
 
