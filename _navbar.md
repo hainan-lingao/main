@@ -1,2 +1,3 @@
+- [下载](download)
 - [关于我们](about-us)
 - [帮助](help)
