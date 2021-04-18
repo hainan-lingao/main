@@ -5,6 +5,7 @@
 - [政治](political)
 - [历史](history)
 - [文化](culture)
+- [语言](language)
 - [参与者公约](CODE_OF_CONDUCT)
 - [贡献指南](CONTRIBUTING)
 - [下载](download)
