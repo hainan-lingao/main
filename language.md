@@ -16,7 +16,10 @@
 
 ### 发音相同的词
 
-水
+水：在临高语和泰语中，都读“nem”
+
+“果”读"miang"
+
 走
 猪
 狗
@@ -58,5 +61,18 @@
 临高语声母的特殊音变及其与同族语言的关系[Initial Changes in Lingao and their Relationship with Kam-Tai languages_XIN Shibiao](https://www.academia.edu/36909800/Initial_Changes_in_Lingao_and_their_Relationship_with_Kam_Tai_languages_XIN_Shibiao)
 
 [Thai versus Zhuang「泰國語」和「壯族語」對比 (English subtitles)](https://youtu.be/-pkQG8vLDCM)
+
+## 临高语的传承
+
+夫妻双方都是本地人，都说方言的时候，并且在临高本地生活时，小孩虽然不会说，但是一般都可以听懂方言
+
+如果结婚后在外地，小孩一般都不说临高话
+
+## 相关研究人员
+
+* 张均如 http://www.cneling.com/scholardetail-443.htm
+* 梁敏 http://www.cneling.com/scholardetail-197.htm
+* 刘剑三 http://www.cneling.com/scholardetail-207.htm
+* Shibiao XIN https://independent.academia.edu/shibiaoxin
 
 TODO，内容待补充
