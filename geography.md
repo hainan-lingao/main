@@ -10,9 +10,9 @@
 
 以下是2张来源于百度地图的图片
 
-![临高县地图](https://ftp.bmp.ovh/imgs/2021/04/af03219502d6a3bf.jpg)
+![临高城镇](https://z3.ax1x.com/2021/05/05/gMo9HJ.jpg)
 
-![临高县地图](https://ftp.bmp.ovh/imgs/2021/04/6748b61d18bd9896.jpg)
+![临高城镇.简化](https://z3.ax1x.com/2021/05/05/gMopB4.jpg)
 
 TODO，内容待补充
 
