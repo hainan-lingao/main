@@ -8,9 +8,9 @@
 
 > 和状语、泰语比较接近哦，没错，就是广西的状语和泰国的泰语
 
-临高语其实有词典[临高汉词典[刘剑三]](https://github.com/hainan-lingao/data/raw/main/%E4%B8%B4%E9%AB%98%E6%B1%89%E8%AF%8D%E5%85%B8%5B%E5%88%98%E5%89%91%E4%B8%89%5D.pdf)
+临高语其实有词典[临高汉词典[刘剑三]](https://github.com/hainanlingao/data/raw/main/%E4%B8%B4%E9%AB%98%E6%B1%89%E8%AF%8D%E5%85%B8%5B%E5%88%98%E5%89%91%E4%B8%89%5D.pdf)
 
-这里提供一套[临高拼音基本声母韵母音调草稿](https://github.com/hainan-lingao/data/tree/main/%E4%B8%B4%E9%AB%98%E6%8B%BC%E9%9F%B3%E5%9F%BA%E6%9C%AC%E5%A3%B0%E6%AF%8D%E9%9F%B5%E6%AF%8D%E9%9F%B3%E8%B0%83%E8%8D%89%E7%A8%BF)，录音人未知，如果你知道，欢迎联系
+这里提供一套[临高拼音基本声母韵母音调草稿](https://github.com/hainanlingao/data/tree/main/%E4%B8%B4%E9%AB%98%E6%8B%BC%E9%9F%B3%E5%9F%BA%E6%9C%AC%E5%A3%B0%E6%AF%8D%E9%9F%B5%E6%AF%8D%E9%9F%B3%E8%B0%83%E8%8D%89%E7%A8%BF)，录音人未知，如果你知道，欢迎联系
 
 ## 和泰语的关系
 
