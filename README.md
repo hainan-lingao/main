@@ -1,6 +1,6 @@
 # 临高
 
-> 本网站地址 https://hainan-lingao.github.io/main/
+> 本网站地址 https://hainanlingao.github.io
 
 欢迎来到临高文档站点
 
@@ -18,4 +18,4 @@
 
 参考 [关于我们](about-us)
 
-或者到 [issues](https://github.com/hainan-lingao/main/issues) 中提出你的疑问
+或者到 [issues](https://github.com/hainanlingao/hainanlingao.github.io/issues) 中提出你的疑问
